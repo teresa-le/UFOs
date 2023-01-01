@@ -11,7 +11,7 @@ There are 5 different filters that users can use to filter the UFO sightings dat
 - Country
 - Shape of the UFO 
 
-To search for UFO sightings, use the webpage (index.html). Enter your desired search criteria into the text boxes. Press enter after you are done entering each search criteria e.g. us for *country*. 
+To search for UFO sightings, download all the files and use the webpage (index.html). Enter your desired search criteria into the text boxes. Press enter after you are done entering each search criteria e.g. us for *country*. 
 
 <img src="https://github.com/teresa-le/UFOs_Analysis/blob/main/static/images/Search%20Function.PNG">
 
