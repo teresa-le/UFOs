@@ -1,7 +1,7 @@
 # UFOs Analysis 
 
 ## Overview
-The purpose of the project is to allow users to drill down into data on UFO sightings and use the table of data to gain insights via exploratory analysis. 
+The purpose of the project is to allow users to drill down into data on UFO sightings and gain insights via exploratory analysis. 
 
 ## Results
 There are 5 different filters that users can use to filter the UFO sightings data. They are as follows: 
@@ -11,7 +11,7 @@ There are 5 different filters that users can use to filter the UFO sightings dat
 - Country
 - Shape of the UFO 
 
-To perform a search, use the webpage (index.html), and enter your desired search criteria into the text boxes and press enter. 
+To search for UFO sightings, use the webpage (index.html). Enter your desired search criteria into the text boxes. Press enter after you are done entering each search criteria e.g. us for *country*. 
 
 <img src="https://github.com/teresa-le/UFOs_Analysis/blob/main/static/images/Search%20Function.PNG">
 
