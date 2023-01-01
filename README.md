@@ -1,7 +1,7 @@
 # UFOs Analysis 
 
 ## Overview
-The purpose of the project is to allow users to drill down into data on UFO sightings and gain insights via exploratory analysis. 
+The purpose of the project is to allow users to filter UFO sightings data and gain insights via exploratory analysis. 
 
 ## Results
 There are 5 different filters that users can use to filter the UFO sightings data. They are as follows: 
